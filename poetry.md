@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /poetry/
-title: 技术
+title: 其他
 description: Showcase your writing, short stories, or poems. Replace this text with your description.
 ---
 

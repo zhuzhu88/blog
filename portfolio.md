@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 前端
+title: 生活
 permalink: /portfolio/
 ---
 

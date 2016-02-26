@@ -56,8 +56,8 @@ brew安装成功后，安装nvm
 
 
 ###  nvm来管理Node
-<br/>
 
+<br/>
 - nvm安装Node
 
 ```

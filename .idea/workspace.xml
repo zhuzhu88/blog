@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e087976b-4025-4f17-ba0d-722a9d56cf44" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_poetry/2015-05-05-emperor.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_poetry/2015-07-06-soliloquy.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_poetry/2015-08-06-fantasy.markdown" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_poetry/2016-02-19-nvm.markdown" afterPath="$PROJECT_DIR$/_poetry/2016-02-19-nvm.markdown" />
-    </list>
+    <list default="true" id="e087976b-4025-4f17-ba0d-722a9d56cf44" name="Default" comment="" />
     <ignored path="joannazhublog.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -66,8 +61,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.64882946">
-                <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+              <first_editor vertical-scroll-proportion="0.548495">
+                <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -661,12 +656,12 @@
       <option name="number" value="Default" />
       <updated>1455863784826</updated>
       <workItem from="1455863786432" duration="8820000" />
-      <workItem from="1456214509175" duration="8796000" />
+      <workItem from="1456214509175" duration="8853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17616000" />
+    <option name="totallyTimeSpent" value="17673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="800" extended-state="6" />
@@ -997,8 +992,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.64882946">
-            <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+          <first_editor vertical-scroll-proportion="0.548495">
+            <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

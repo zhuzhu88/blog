@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  通过nvm升级切换Node版本
-date:   2015-03-15 16:40:16
+title:  nvm升级切换Node版本
+date:   2015-02-19 16:49:16
 description: 通过nvm升级切换Node版本
 ---
 
@@ -14,6 +14,7 @@ Node版本太低，想升级下，组里童鞋推荐用nvm，就安装来试下�
 ### 简单安装Homebrew
 
 Homebrew简称brew，Mac OSX上的软件包管理工具，能在Mac中方便的安装软件或者卸载软件
+
 
 Mac终端直接执行以下脚本：
 

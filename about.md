@@ -4,7 +4,6 @@ title: 关于
 permalink: /about/
 ---
 
-<br/>
 <img class="col" src="http://zhuzhu88.github.io/blog/img/about.jpg">
 
 <br/>

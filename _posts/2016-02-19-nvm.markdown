@@ -9,12 +9,18 @@ Node版本太低，想升级下，组里童鞋推荐用nvm，就安装来试下�
 
 通过nvm可以来管理Node的版本，首先需要安装nvm，可以通过brew来安装nvm
 
+<br/>
 ### 简单安装Homebrew
 <br/>
 
 Homebrew简称brew，Mac OSX上的软件包管理工具，能在Mac中方便的安装软件或者卸载软件
 
 Mac终端直接执行以下脚本：
+
+
+{% highlight ruby %}
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+{% endhighlight %}
 
 ``` 
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"

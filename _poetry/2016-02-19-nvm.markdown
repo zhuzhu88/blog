@@ -65,13 +65,13 @@ brew安装成功后，安装nvm
 ###  nvm来管理Node
 
 <br/>
-* nvm安装Node
+- nvm安装Node
 
 {% highlight ruby %}
   nvm install 4.1.2
 {% endhighlight %}
 
-* nvm切换Node版本
+- nvm切换Node版本
 
 {% highlight ruby %}
   nvm use 4.1.2

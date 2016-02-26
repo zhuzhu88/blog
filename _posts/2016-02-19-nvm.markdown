@@ -29,12 +29,14 @@ brew安装成功后，安装nvm
 <br/>
 
 <br/>
-### 需要配置Homebrew
+
+###  需要配置Homebrew
+
 <br/>
 安装后发现nvm并没有生效，还需要在shell的配置文件(~/.bashrc, ~/.profile, or ~/.zshrc)中添加如下内容
 
 ```
-# For NVM
+  # For NVM
   export NVM_DIR=~/.nvm
   source $(brew --prefix nvm)/nvm.sh
 ```
@@ -50,10 +52,11 @@ brew安装成功后，安装nvm
 ![screenshot](http://img4.tbcdn.cn/L1/461/1/62bcdf98d41c0f2c4cb6fcd3689b2a96cb1bae05.png)
 
 
-[参考](http://www.cnblogs.com/Don/p/4672287.html)
+[参考来源](http://www.cnblogs.com/Don/p/4672287.html)
 
 
-### nvm来管理Node
+###  nvm来管理Node
+<br/>
 
 - nvm安装Node
 

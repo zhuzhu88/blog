@@ -16,33 +16,33 @@ Homebrew简称brew，Mac OSX上的软件包管理工具，能在Mac中方便的�
 
 Mac终端直接执行以下脚本：
 
-``` js
+``` 
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 brew安装成功后，安装nvm
 
-``` js
-brew install nvm
+``` 
+  brew install nvm
 ```
 
 <a href="http://brew.sh/index_zh-cn.html" target="_blank">参考 Homebrew官网</a>
+<br/>
 
-
+<br/>
 ### 需要配置Homebrew
-
+<br/>
 安装后发现nvm并没有生效，还需要在shell的配置文件(~/.bashrc, ~/.profile, or ~/.zshrc)中添加如下内容
 
- ```
-
-# For NVM
-export NVM_DIR=~/.nvm
-source $(brew --prefix nvm)/nvm.sh
-
 ```
+# For NVM
+  export NVM_DIR=~/.nvm
+  source $(brew --prefix nvm)/nvm.sh
+```
+
 重新执行刚修改的文件
 
 ```
-source ~/.zshrc
+  source ~/.zshrc
 ```
 
 这个时候nvm就安装成功了
@@ -53,16 +53,16 @@ source ~/.zshrc
 [参考](http://www.cnblogs.com/Don/p/4672287.html)
 
 
-###  nvm来管理Node
+### nvm来管理Node
 
 - nvm安装Node
 
-     ```
-       nvm install 4.1.2
-      ```
+```
+  nvm install 4.1.2
+```
 
 - nvm切换Node版本
 
-     ```
-        nvm use 4.1.2
-    ```
+```
+  nvm use 4.1.2
+```

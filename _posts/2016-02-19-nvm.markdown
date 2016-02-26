@@ -9,10 +9,9 @@ Node版本太低，想升级下，组里童鞋推荐用nvm，就安装来试下�
 
 通过nvm可以来管理Node的版本，首先需要安装nvm，可以通过brew来安装nvm
 
-<br/>
+<hr/>
 
 ###  简单安装Homebrew
-<hr/>
 
 Homebrew简称brew，Mac OSX上的软件包管理工具，能在Mac中方便的安装软件或者卸载软件
 
@@ -36,7 +35,6 @@ brew安装成功后，安装nvm
 <br/>
 
 ###  需要配置Homebrew
-<hr/>
 
 安装后发现nvm并没有生效，还需要在shell的配置文件(~/.bashrc, ~/.profile, or ~/.zshrc)中添加如下内容
 
@@ -63,7 +61,6 @@ brew安装成功后，安装nvm
 
 
 ###  nvm来管理Node
-<hr/>
 
 * nvm安装Node
 

@@ -17,16 +17,12 @@ Homebrew简称brew，Mac OSX上的软件包管理工具，能在Mac中方便的�
 Mac终端直接执行以下脚本：
 
 ``` js
-
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
 ```
 brew安装成功后，安装nvm
 
 ``` js
-
 brew install nvm
-
 ```
 
 <a href="http://brew.sh/index_zh-cn.html" target="_blank">参考 Homebrew官网</a>

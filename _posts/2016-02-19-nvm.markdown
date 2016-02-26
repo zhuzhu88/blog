@@ -22,14 +22,12 @@ Mac终端直接执行以下脚本：
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 {% endhighlight %}
 
-``` 
-  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
 brew安装成功后，安装nvm
 
-``` 
-  brew install nvm
-```
+{% highlight ruby %}
+   brew install nvm
+{% endhighlight %}
+
 
 <a href="http://brew.sh/index_zh-cn.html" target="_blank">参考 Homebrew官网</a>
 <br/>
@@ -41,17 +39,19 @@ brew安装成功后，安装nvm
 <br/>
 安装后发现nvm并没有生效，还需要在shell的配置文件(~/.bashrc, ~/.profile, or ~/.zshrc)中添加如下内容
 
-```
+
+{% highlight ruby %}
   # For NVM
   export NVM_DIR=~/.nvm
   source $(brew --prefix nvm)/nvm.sh
-```
+{% endhighlight %}
+
 
 重新执行刚修改的文件
 
-```
+{% highlight ruby %}
   source ~/.zshrc
-```
+{% endhighlight %}
 
 这个时候nvm就安装成功了
 
@@ -66,12 +66,12 @@ brew安装成功后，安装nvm
 <br/>
 - nvm安装Node
 
-```
+{% highlight ruby %}
   nvm install 4.1.2
-```
+{% endhighlight %}
 
 - nvm切换Node版本
 
-```
+{% highlight ruby %}
   nvm use 4.1.2
-```
+{% endhighlight %}

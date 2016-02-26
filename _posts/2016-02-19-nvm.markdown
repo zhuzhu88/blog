@@ -7,31 +7,32 @@ description: 通过nvm升级切换Node版本
 
 Node版本太低，想升级下，组里童鞋推荐用nvm，就安装来试下。
 
-
 通过nvm可以来管理Node的版本，首先需要安装nvm，可以通过brew来安装nvm
 
-
 ### 简单安装Homebrew
+<br/>
 
 Homebrew简称brew，Mac OSX上的软件包管理工具，能在Mac中方便的安装软件或者卸载软件
 
-
 Mac终端直接执行以下脚本：
 
- ```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+``` js
+
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 ```
 brew安装成功后，安装nvm
 
-```
+``` js
+
 brew install nvm
+
 ```
 
-[参考 Homebrew官网](http://brew.sh/index_zh-cn.html)
+<a href="http://brew.sh/index_zh-cn.html" target="_blank">参考 Homebrew官网</a>
 
 
-###  需要配置Homebrew
+### 需要配置Homebrew
 
 安装后发现nvm并没有生效，还需要在shell的配置文件(~/.bashrc, ~/.profile, or ~/.zshrc)中添加如下内容
 

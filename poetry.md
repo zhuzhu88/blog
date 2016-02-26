@@ -2,7 +2,7 @@
 layout: page
 permalink: /poetry/
 title: 技术
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+description: Javascript、Node and so on.
 ---
 
 <ul class="post-list">

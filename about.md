@@ -5,9 +5,7 @@ permalink: /about/
 ---
 
 <br/>
-<br/>
-
-<img class="col one right" src="http://zhuzhu88.github.io/blog/img/about.jpg">
+<img class="col" src="http://zhuzhu88.github.io/blog/img/about.jpg">
 
 <br/>
 <hr/>

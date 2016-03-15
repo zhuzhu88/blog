@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e087976b-4025-4f17-ba0d-722a9d56cf44" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-03-14-jekllygithub.markdown" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-03-15-jekllygithub.markdown" afterPath="$PROJECT_DIR$/_posts/2016-03-15-jekllygithub.markdown" />
     </list>
     <ignored path="joannazhublog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -174,6 +174,7 @@
         <option value="$PROJECT_DIR$/_poetry/2016-02-19-nvm.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-02-19-nvm.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-03-14-jekllygithub.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2016-03-15-jekllygithub.markdown" />
       </list>
     </option>
   </component>
@@ -708,12 +709,12 @@
       <workItem from="1455863786432" duration="8820000" />
       <workItem from="1456214509175" duration="9547000" />
       <workItem from="1457406600028" duration="2579000" />
-      <workItem from="1457940362421" duration="12399000" />
+      <workItem from="1457940362421" duration="12489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33345000" />
+    <option name="totallyTimeSpent" value="33435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />

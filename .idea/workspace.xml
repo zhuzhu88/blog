@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e087976b-4025-4f17-ba0d-722a9d56cf44" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_poetry/2016-03-14-npm.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-03-14-jekllygithub.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_poetry/2016-02-19-nvm.markdown" afterPath="$PROJECT_DIR$/_poetry/2016-02-19-nvm.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-19-nvm.markdown" afterPath="$PROJECT_DIR$/_posts/2016-02-19-nvm.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="joannazhublog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,8 +66,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.2652733">
-                <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <first_editor vertical-scroll-proportion="0.59003216">
+                <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -72,15 +75,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-03-14-npm.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-03-14-npm.markdown">
+      <file leaf-file-name="2016-02-19-nvm.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_poetry/2016-02-19-nvm.markdown">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.46945336">
-                <caret line="95" column="11" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
+              <first_editor vertical-scroll-proportion="0.5659164">
+                <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -88,15 +91,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-03-14-npm.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_poetry/2016-03-14-npm.markdown">
+      <file leaf-file-name="2016-03-14-jekllygithub.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-03-14-jekllygithub.markdown">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="-1.4839228">
-                <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <first_editor vertical-scroll-proportion="0.19292605">
+                <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -170,8 +173,10 @@
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/poetry.md" />
         <option value="$PROJECT_DIR$/_sass/_base.scss" />
-        <option value="$PROJECT_DIR$/_posts/2016-02-19-nvm.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-03-14-npm.markdown" />
+        <option value="$PROJECT_DIR$/_poetry/2016-02-19-nvm.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2016-02-19-nvm.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2016-03-14-jekllygithub.markdown" />
       </list>
     </option>
   </component>
@@ -371,8 +376,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_poetry" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/_poetry" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
@@ -706,12 +711,12 @@
       <workItem from="1455863786432" duration="8820000" />
       <workItem from="1456214509175" duration="9547000" />
       <workItem from="1457406600028" duration="2579000" />
-      <workItem from="1457940362421" duration="11616000" />
+      <workItem from="1457940362421" duration="12280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32562000" />
+    <option name="totallyTimeSpent" value="33226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -999,20 +1004,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_poetry/2016-02-19-nvm.markdown">
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2972561">
@@ -1166,26 +1157,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-02-19-nvm.markdown">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5769231">
-          <caret line="35" column="71" selection-start-line="35" selection-start-column="71" selection-end-line="35" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.2652733">
-            <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-03-14-npm.markdown">
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
@@ -1206,8 +1177,56 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="-1.4839228">
-            <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <first_editor vertical-scroll-proportion="0.44533762">
+            <caret line="94" column="20" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_poetry/2016-02-19-nvm.markdown">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.5659164">
+            <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-02-19-nvm.markdown">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5769231">
+          <caret line="35" column="71" selection-start-line="35" selection-start-column="71" selection-end-line="35" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.59003216">
+            <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-03-14-jekllygithub.markdown">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.19292605">
+            <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             <folding />
           </first_editor>
           <second_editor />

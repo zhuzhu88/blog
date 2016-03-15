@@ -21,11 +21,11 @@ sudo npm install -g grunt-cli
 [参考资料](http://www.elmerzhang.com/2011/09/nodejs-module-develop-publish/)
 
 
-* ####  创建一个空的hello的目录
+####  创建一个空的hello的目录
 
 ![screenshot](http://img4.tbcdn.cn/L1/461/1/47e3c5a3e178e8a3f929e84052b6cdeb6d41b20e.png)
 
-* ####  创建hello.js文件
+####  创建hello.js文件
 
 创建hello.js
 
@@ -42,7 +42,7 @@ exports.Hello = function ( name ) {
 }
 {% endhighlight %}
 
-* ####  NPM初始化
+####  NPM初始化
 
 执行npm init
 

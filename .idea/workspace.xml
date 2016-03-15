@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e087976b-4025-4f17-ba0d-722a9d56cf44" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-03-14-npm.markdown" afterPath="$PROJECT_DIR$/_posts/2016-03-14-npm.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_poetry/2016-03-14-npm.markdown" />
     </list>
     <ignored path="joannazhublog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,15 +72,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-03-14-npm.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-03-14-npm.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-03-14-npm.markdown">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.80707395">
-                <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+              <first_editor vertical-scroll-proportion="0.46945336">
+                <caret line="95" column="11" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-03-14-npm.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_poetry/2016-03-14-npm.markdown">
+          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="-1.4839228">
+                <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -355,8 +371,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_poetry" />
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
@@ -690,12 +706,12 @@
       <workItem from="1455863786432" duration="8820000" />
       <workItem from="1456214509175" duration="9547000" />
       <workItem from="1457406600028" duration="2579000" />
-      <workItem from="1457940362421" duration="11561000" />
+      <workItem from="1457940362421" duration="11616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32507000" />
+    <option name="totallyTimeSpent" value="32562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -1176,8 +1192,22 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.80707395">
-            <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+          <first_editor vertical-scroll-proportion="0.46945336">
+            <caret line="95" column="11" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_poetry/2016-03-14-npm.markdown">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="-1.4839228">
+            <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             <folding />
           </first_editor>
           <second_editor />

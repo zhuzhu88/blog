@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  nvm升级切换Node版本
-date:   2015-02-19 16:49:16
+date:   2016-02-19 16:49:16
 description: 通过nvm升级切换Node版本
 ---
 

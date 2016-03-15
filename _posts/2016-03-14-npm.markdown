@@ -16,7 +16,15 @@ sudo npm install -g grunt-cli
 
 在[NPM官网](https://www.npmjs.com/)上，可以搜索到很多别人写好的模块。
 
-这些都是已经存在的模块，我们也可以自己写一些模块，发布到NPM社区上，供别人使用，自己手动实践下还是比较好的。[参考资料](http://www.elmerzhang.com/2011/09/nodejs-module-develop-publish/)
+这些都是已经存在的模块，我们也可以自己写一些牛逼的Node模块，发布到NPM社区上，供别人使用，自己手动实践下还是比较好的。[参考资料](http://www.elmerzhang.com/2011/09/nodejs-module-develop-publish/)
+前提是你已经安装了Node和NPM，没有的可以先去[Node官网](https://nodejs.org/en/)下载安装
+
+{% highlight ruby %}
+➜  ~ node -v
+v0.12.0
+➜  ~ npm -v
+2.14.3
+{% endhighlight %}
 
 <br/>
 
@@ -29,7 +37,7 @@ sudo npm install -g grunt-cli
 ###  创建hello.js文件
 
 {% highlight ruby %}
-touch hello.js      //创建hello.js
+touch hello.js       //创建hello.js
 {% endhighlight %}
 
 写入以下内容
@@ -57,17 +65,17 @@ exports.Hello = function ( name ) {
 
 ![screenshot](http://img2.tbcdn.cn/L1/461/1/adc279f10ec00866e643d7e3d09cf2cb69e0e350.png)
 
-返回hello的上级目录  安装这个NPM模块
+返回hello的上级目录  安装这个模块
 
 ![screenshot](http://img4.tbcdn.cn/L1/461/1/5ae782646235c63be1b51e0ada0b6fdcb49d6520.png)
 
 显示安装成功
 
-执行命令，成功输出数据
+用node执行下，成功输出数据
 
 ![screenshot](http://img1.tbcdn.cn/L1/461/1/0dbd486f0c7d86ac5fffd567a29d029bf2dd7748.png)
 
-这样一个NPM包制作完成
+这样一个简单的Node模块就开发完成了
 
 <br/>
 

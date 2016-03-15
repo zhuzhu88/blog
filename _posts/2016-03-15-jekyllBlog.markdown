@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  jekyll+gitHub搭建博客
-date:   2016-03-12 16:49:16
+date:   2016-03-15 14:49:16
 description: 通过jekyll+gitBub搭建一个博客
 ---
 

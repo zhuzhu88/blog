@@ -16,9 +16,8 @@ sudo npm install -g grunt-cli
 
 在[NPM官网](https://www.npmjs.com/)上，可以搜索到很多别人写好的模块。
 
-这些都是已经存在的模块，我们也可以自己写一些牛逼的Node模块，发布到NPM社区上，供别人使用，自己手动实践下还是比较好的。
-前提是你已经安装了Node和NPM，没有的可以先去[Node官网](https://nodejs.org/en/)下载安装。[参考资料](http://www.elmerzhang.com/2011/09/nodejs-module-develop-publish/)
-
+这些都是已经存在的模块，我们也可以自己写一些牛逼的模块，发布到NPM社区上，供别人使用，自己手动实践下还是比较好的。[参考资料](http://www.elmerzhang.com/2011/09/nodejs-module-develop-publish/)
+前提是你已经安装了Node和NPM，没有的可以先去[Node官网](https://nodejs.org/en/)下载安装。
 
 {% highlight ruby %}
 ➜  ~ node -v
@@ -76,15 +75,35 @@ exports.Hello = function ( name ) {
 
 ![screenshot](http://img1.tbcdn.cn/L1/461/1/0dbd486f0c7d86ac5fffd567a29d029bf2dd7748.png)
 
-这样一个简单的Node模块就开发完成了
+这样一个简单的模块就开发完成了，只需要把它发布到NPM上即可。
 
 <br/>
 
 ###  NPM包发布
 
-需要在官网上注册一个帐号，
+发布之前需要在官网上注册一个帐号：
+
+{% highlight ruby %}
+➜  npm-package npm adduser  
+Username: joannazhu
+Password: 
+Email: (this IS public) XXXXXX@126.com
+{% endhighlight %}
  
- 未完待续
+注册完成之后，只要发布就行了
+
+{% highlight ruby %}
+npm publish
+{% endhighlight %}
+
+
+结果提示：
+![screenshot](http://img2.tbcdn.cn/L1/461/1/7f86a900d53334788b860bc9c9e23cce8dc6c063.png)
+
+这是因为这个模块已经被别人上传了，hello这个名字太常见了，囧，改个特立独行的名字就好啦！
+
+登录[自己的NPM主页](https://www.npmjs.com/~joannazhu)，或者输入模块名搜索，就可以看到自己发布的那个模块了
+
 
 
 

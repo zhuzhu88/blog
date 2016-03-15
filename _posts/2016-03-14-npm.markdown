@@ -19,11 +19,13 @@ sudo npm install -g grunt-cli
 这些都是已经存在的模块，我们也可以自己写一些模块，发布到NPM社区上，供别人使用，自己手动实践下还是比较好的。[参考资料](http://www.elmerzhang.com/2011/09/nodejs-module-develop-publish/)
 
 <br/>
+
 ###  创建一个空的hello的目录
 
 ![screenshot](http://img4.tbcdn.cn/L1/461/1/47e3c5a3e178e8a3f929e84052b6cdeb6d41b20e.png)
 
 <br/>
+
 ###  创建hello.js文件
 
 {% highlight ruby %}
@@ -39,6 +41,7 @@ exports.Hello = function ( name ) {
 {% endhighlight %}
 
 <br/>
+
 ###  NPM初始化
 
 执行npm init
@@ -67,6 +70,7 @@ exports.Hello = function ( name ) {
 这样一个NPM包制作完成
 
 <br/>
+
 ###  NPM包发布
 
 需要在官网上注册一个帐号，

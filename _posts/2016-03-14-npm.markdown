@@ -104,6 +104,8 @@ npm publish
 
 登录[自己的NPM主页](https://www.npmjs.com/~joannazhu)，或者输入模块名搜索，就可以看到自己发布的那个模块了
 
+![screenshot](http://img1.tbcdn.cn/L1/461/1/045316df261413d72269cc26c236836737a5a1bb.png)
+
 
 
 

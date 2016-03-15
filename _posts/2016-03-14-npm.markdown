@@ -16,9 +16,9 @@ sudo npm install -g grunt-cli
 
 在[NPM官网](https://www.npmjs.com/)上，可以搜索到很多别人写好的模块。
 
-这些都是已经存在的模块，我们也可以自己写一些牛逼的模块，发布到NPM社区上，供别人使用，自己手动实践下还是比较好的。前提是你已经安装了Node和NPM，没有的可以先去[Node官网](https://nodejs.org/en/)下载安装。[参考资料](http://www.elmerzhang.com/2011/09/nodejs-module-develop-publish/)
+这些都是已经存在的模块，我们也可以自己写一些牛逼的模块，发布到NPM社区上，供别人使用，自己手动实践下还是比较好的。[参考资料](http://www.elmerzhang.com/2011/09/nodejs-module-develop-publish/)
 
-
+前提是你已经安装了Node和NPM，没有的可以先去[Node官网](https://nodejs.org/en/)下载安装。
 {% highlight ruby %}
 ➜  ~ node -v
 v0.12.0
